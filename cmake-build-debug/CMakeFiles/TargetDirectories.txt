@@ -1,0 +1,3 @@
+/cygdrive/d/School/Year 2/Semester 2/C Programming/02/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/School/Year 2/Semester 2/C Programming/02/Code/cmake-build-debug/CMakeFiles/A02.dir
+/cygdrive/d/School/Year 2/Semester 2/C Programming/02/Code/cmake-build-debug/CMakeFiles/edit_cache.dir

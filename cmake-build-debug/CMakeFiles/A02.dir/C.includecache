@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/School/Year 2/Semester 2/C Programming/02/Code/mine_ship_game.c
+mine_ship_game.h
+/cygdrive/d/School/Year 2/Semester 2/C Programming/02/Code/mine_ship_game.h
+
+/cygdrive/d/School/Year 2/Semester 2/C Programming/02/Code/mine_ship_game.h
+time.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
